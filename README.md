@@ -1,1 +1,3 @@
-# fresh init test
+# probe README v2
+
+Updated through the contents API.
